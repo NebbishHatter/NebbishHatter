@@ -10,38 +10,47 @@
 
   <br><br>
 
-  <!-- Цветные иконки технологий -->
+  <!-- Иконки технологий -->
   <img src="https://skillicons.dev/icons?i=py,linux,bash,git,windows,vscode" alt="My Skills" />
-  
-  <br><br>
-
-  <!-- Специфичные инструменты -->
+  <br>
   <img src="https://img.shields.io/badge/Wireshark-1a0b2e?style=for-the-badge&logo=wireshark&logoColor=ff69b4" />
   <img src="https://img.shields.io/badge/Volatility-1a0b2e?style=for-the-badge&logo=terminal&logoColor=8a2be2" />
   <img src="https://img.shields.io/badge/Autopsy-1a0b2e?style=for-the-badge&logo=police&logoColor=ff69b4" />
 
   <br><br>
 
-  <!-- Статистика в розово-фиолетовом стиле -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NebbishHatter&show_icons=true&theme=radical&title_color=ff69b4&icon_color=8a2be2&text_color=c9d1d9&bg_color=0D1117&border_color=8a2be2" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebbishHatter&layout=compact&theme=radical&title_color=ff69b4&text_color=c9d1d9&bg_color=0D1117&border_color=8a2be2" height="180" alt="Top Languages" />
+  <!-- Сетка со статистикой -->
+  <table border="0">
+    <tr>
+      <td align="center">
+        <!-- Основная статистика -->
+        <img src="https://github-readme-stats.vercel.app/api?username=NebbishHatter&show_icons=true&theme=radical&title_color=ff69b4&icon_color=8a2be2&text_color=c9d1d9&bg_color=0D1117&border_color=8a2be2" height="180" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <!-- Серия коммитов (Streak) -->
+        <img src="https://streak-stats.demolab.com?user=NebbishHatter&theme=radical&hide_border=false&border=8a2be2&background=0D1117&ring=8a2be2&fire=ff69b4&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff69b4&sideLabels=8a2be2&dates=c9d1d9" height="180" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- Языки -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebbishHatter&layout=compact&theme=radical&title_color=ff69b4&text_color=c9d1d9&bg_color=0D1117&border_color=8a2be2&hide_border=false" height="150" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-  <br><br>
+  <br>
 
-  <!-- РАБОЧИЙ график активности (альтернативный хостинг) -->
-  <a href="https://github.com/NebbishHatter">
-    <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=NebbishHatter&bg_color=0D1117&color=ff69b4&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
-
-  <br><br>
-  
-  <!-- Место для будущей змейки (раскомментируй, когда настроишь) -->
-  <!--
+  <!-- ЗМЕЙКА (Она появится тут, если Actions отработал) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NebbishHatter/NebbishHatter/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NebbishHatter/NebbishHatter/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/NebbishHatter/NebbishHatter/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/NebbishHatter/NebbishHatter/output/github-snake-dark.svg" width="100%" />
   </picture>
-  -->
+
+  <br><br>
+
+  <!-- Счетчик посетителей -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NebbishHatter.NebbishHatter&left_color=1a0b2e&right_color=ff69b4&left_text=PROFILE+VIEWS" />
 
 </div>
