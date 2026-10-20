@@ -1,43 +1,45 @@
-<div align="center">
+# NebbishHatter
 
-  <!-- Строгий, минималистичный заголовок -->
-  <h1>NebbishHatter</h1>
-  
-  <!-- Печатающийся текст (цвет сдержанного серого, терминальный шрифт) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=450&lines=Digital+Forensics;Incident+Response;Legal+Tech;%3E+_System+ready" alt="Typing SVG" />
-  </a>
+## 🕵️‍♂️ Digital Forensics & Incident Response
 
-  <br><br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=c9d1d9&vCenter=true&width=600&lines=Windows+Artifacts+Analysis;Live+Memory+Forensics;Network+Traffic+Analysis;Legal+Tech+Enthusiast" alt="Typing SVG" />
+</a>
 
-  <!-- Стек -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,linux,bash,git,windows,vscode&theme=dark" alt="My Skills" />
-  </a>
+---
 
-  <br><br>
+### 🎯 About Me
+- 🎓 **Education:** Law Student specializing in Cyber Law & Digital Evidence.
+- 🔍 **Core Focus:** Windows Artifacts Analysis, Live Memory Forensics, Network Traffic Analysis.
+- 🛠 **Current Learning:** Developing Python tools for artifact parsing and security automation.
 
-  <!-- Специфичный софт. Строгие плоские бейджи (flat-square), минимум цвета -->
-  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=8B949E&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Volatility-0D1117?style=flat-square&logo=terminal&logoColor=8B949E&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Autopsy-0D1117?style=flat-square&logo=police&logoColor=8B949E&labelColor=161B22" />
+---
 
-  <br><br><br>
+### 🧰 Tech Stack & Tools
 
-  <!-- СТАТИСТИКА: -->
-  <a href="https://github.com/NebbishHatter">
-    <img src="https://github-readme-stats.vercel.app/api?username=NebbishHatter&show_icons=true&theme=github_dark&title_color=ffffff&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&border_color=30363D&hide_border=false" height="165" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/NebbishHatter">
-    <img src="https://streak-stats.demolab.com?user=NebbishHatter&theme=github-dark-blue&border=30363D&background=0D1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" height="165" alt="GitHub Streak" />
-  </a>
+**Languages & OS:**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,linux,windows,bash,git&theme=dark" alt="My Skills" />
+</a>
 
-  <br><br>
+<br><br>
 
-  <!-- Тонкая, едва заметная линия-разделитель (аскетичный декор) -->
-  <hr style="border: 1px solid #30363D; width: 80%;" />
+**DFIR Tools:**
+<br>
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=white&labelColor=161B22" height="28" />
+<img src="https://img.shields.io/badge/Volatility-0D1117?style=flat-square&logo=terminal&logoColor=white&labelColor=161B22" height="28" />
+<img src="https://img.shields.io/badge/Autopsy-0D1117?style=flat-square&logo=police&logoColor=white&labelColor=161B22" height="28" />
 
-  <!-- Счетчик посетителей в стиле плоского бейджа -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NebbishHatter.NebbishHatter&left_color=0D1117&right_color=161B22&left_text=Views&color=8B949E" />
+---
 
-</div>
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NebbishHatter&show_icons=true&theme=github_dark&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&bg_color=0D1117&border_color=30363D" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=NebbishHatter&theme=github-dark-blue&border=30363D&background=0D1117&ring=c9d1d9&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="165" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📬 Connect with me
+💬 **Telegram:** [@ваше_имя](https://t.me/ваше_имя) | 📧 **Email:** [ваш_email@example.com](mailto:ваш_email@example.com)
