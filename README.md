@@ -8,19 +8,17 @@ Law student transitioning into cybersecurity. Focused on Windows artifacts, memo
 
 ### Stack
 
-<img src="https://skillicons.dev" alt="Tech Stack" />
-
----
+`Python` `Linux` `Windows` `Bash` `Git` `VS Code`
 
 ### DFIR Tools
 
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+`Wireshark` `Volatility` `Autopsy`
 
 ---
 
 ### GitHub Activity
 
-<div align="center">
-  <img src="https://vercel.app" height="160" alt="GitHub Stats" />
-  <img src="https://demolab.com" height="160" alt="GitHub Streak" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NebbishHatter&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=NebbishHatter&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
