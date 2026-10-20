@@ -1,35 +1,36 @@
 <div align="center">
 
-  <!-- Фиолетовая шапка с плавным градиентом -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:7c3aed&height=180&section=header&text=NebbishHatter&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <!-- Красивая розово-фиолетовая волна -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:8a2be2,100:4b0082&height=180&section=header&text=NebbishHatter&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <h3>DFIR & Legal Tech</h3>
+  <!-- Анимированный текст (розово-фиолетовый) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&width=500&lines=DFIR+%26+Legal+Tech;Incident+Response;Hunting+for+Artifacts" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <!-- Цветные иконки технологий (как у Flowseal) -->
+  <img src="https://skillicons.dev/icons?i=py,linux,bash,git,windows,vscode" alt="My Skills" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Incident+Response+%26+Forensics;Hunting+for+Artifacts;Legal+Tech+Enthusiast" alt="Typing SVG" />
+  <br><br>
+
+  <!-- Твои специфичные инструменты в розово-фиолетовой гамме -->
+  <img src="https://img.shields.io/badge/Wireshark-1a0b2e?style=for-the-badge&logo=wireshark&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/Volatility-1a0b2e?style=for-the-badge&logo=terminal&logoColor=8a2be2" />
+  <img src="https://img.shields.io/badge/Autopsy-1a0b2e?style=for-the-badge&logo=police&logoColor=ff69b4" />
 
   <br><br>
 
-  <!-- Иконки технологий с фиолетовыми акцентами -->
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Volatility-111111?style=for-the-badge&logo=terminal&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=A78BFA" />
+  <!-- Статистика в стиле "Radical" (Розово-фиолетовый) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NebbishHatter&show_icons=true&theme=radical&title_color=ff69b4&icon_color=8a2be2&text_color=c9d1d9&bg_color=0D1117&border_color=8a2be2" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebbishHatter&layout=compact&theme=radical&title_color=ff69b4&text_color=c9d1d9&bg_color=0D1117&border_color=8a2be2" height="180" alt="Top Languages" />
 
   <br><br>
 
-  <!-- Карточки статистики с фиолетовыми заголовками -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NebbishHatter&show_icons=true&theme=dark&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA&bg_color=0D1117&border_color=4c1d95&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebbishHatter&layout=compact&theme=dark&title_color=A78BFA&text_color=c9d1d9&bg_color=0D1117&border_color=4c1d95&hide_border=false" height="180" alt="Top Languages" />
-
-  <br><br>
-
-  <!-- Исправленный график активности -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NebbishHatter&theme=dark&bg_color=0D1117&color=A78BFA&line=7c3aed&point=c9d1d9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-  <br><br>
-
-  <samp>[ STATUS: TRACING ANOMALIES ]</samp>
+  <!-- РАБОЧИЙ график активности -->
+  <a href="https://github.com/NebbishHatter">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NebbishHatter&bg_color=0D1117&color=ff69b4&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  </a>
 
 </div>
